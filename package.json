@@ -1,5 +1,5 @@
 {
-  "name": "ms-frontend-tsx",
+  "name": "thanos-snap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,10 +34,7 @@
     ]
   },
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sugar3103/thanosSnap.git"
-  },
+  "repository": "git+https://github.com/sugar3103/thanosSnap.git",
   "author": "phandu3forcom",
   "license": "MIT",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
